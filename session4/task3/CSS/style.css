@@ -309,6 +309,7 @@ hr {
     padding: 8% 0% 2% 0%;
 
 }
+
 .sec5 h2 {
     padding: 8% 0% 2% 0%;
 
@@ -318,57 +319,169 @@ hr {
 
     margin: auto;
 }
+
 .sec5 hr {
 
     margin: auto;
     border-color: chocolate;
 }
-.sec4 p{
+
+.sec4 p {
     margin: 2% 0% 4% 0%;
 }
-.sec5 p{
+
+#f-p {
     margin: 2% 0% 4% 0%;
 }
-.card{
+
+.card {
     width: 30%;
     text-align: center;
     background-color: white;
 }
-.top-black{
+
+.top-black {
     background-color: #2e2e2e;
 
 }
-.card h3{
+
+.card h3 {
     padding: 5% 0%;
 }
-.card hr{
+
+.card hr {
     width: 100%;
 }
-.card h4{
+
+.card h4 {
     padding: 2% 0%;
     color: gray;
 }
-.cards{
-    padding-bottom:  10%;
+
+.cards {
+    padding-bottom: 10%;
 }
-.opinions{
-    padding-bottom:  10%;
+
+.opinions {
+    padding-bottom: 10%;
 }
-#hr-orange{
-        color: chocolate;
-    
-        border: solid;
+
+#hr-orange {
+    color: chocolate;
+
+    border: solid;
 }
-.card2{
+
+.card2 {
     margin: 0% 5%;
 }
-.button-mid-card{
+
+.button-mid-card {
     background-color: chocolate;
     color: white;
     padding: 1% 36%;
     border: none;
 }
+
 .price {
     font-size: 243%;
     font-family: "Crimson Text", serif;
+}
+
+.sec5 .text {
+    width: 100%;
+
+}
+
+.sec5 .text p {
+    padding: 4% 6%;
+}
+
+.arrow-down {
+    width: 0%;
+    height: 0%;
+    border-top: 12px solid antiquewhite;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    margin-left: 8%;
+}
+
+.sec5 img {
+    width: 17%;
+    margin: 1%;
+    border-radius: 50%;
+}
+
+.sec5 .name {
+    vertical-align: top;
+    margin-top: 4%;
+}
+
+.sec5 .name h4 {
+
+    font-size: 125%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.opinion {
+    width: 25%;
+}
+
+.mid-op {
+    margin-right: 12.5%;
+    margin-left: 12.5%;
+}
+
+.sec5 input {
+    border: none;
+    /* border-color: transparent; */
+    border-bottom: solid 1.8px lightgray;
+    background: transparent;
+    color: lightgray;
+    width: 100%;
+    padding: 1%;
+    margin-bottom: 4%;
+}
+
+.sec5 form {
+    width: 100%;
+}
+
+.inputs-l {
+    width: 47%;
+    margin-right: 6%;
+    padding-bottom: 3%;
+}
+
+.t-feild {
+    width: 47%;
+    padding-top: 2%;
+
+}
+
+.sec5 textarea {
+    /* vertical-align: top; */
+    border: none;
+    border-bottom: solid 1.8px lightgray;
+    background: transparent;
+    color: lightgray;
+    width: 100%;
+    padding-bottom: 1%;
+}
+
+.sec5 button {
+    border: 1px solid;
+    margin: 5% 0%;
+    padding: 10px 30px;
+    color: antiquewhite;
+    background-color: chocolate;
+    border-color: chocolate;
+    margin-left: 45%;
+}
+#icons-footer{
+    margin-right: 18%;
+    font-size: 60%;
 }
