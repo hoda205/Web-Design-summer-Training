@@ -300,5 +300,75 @@ hr {
 .sec3 .details {
     width: 81%;
     display: inline-block;
-        margin-left: 5%;
+    margin-left: 5%;
+}
+
+
+
+.sec4 h2 {
+    padding: 8% 0% 2% 0%;
+
+}
+.sec5 h2 {
+    padding: 8% 0% 2% 0%;
+
+}
+
+.sec4 hr {
+
+    margin: auto;
+}
+.sec5 hr {
+
+    margin: auto;
+    border-color: chocolate;
+}
+.sec4 p{
+    margin: 2% 0% 4% 0%;
+}
+.sec5 p{
+    margin: 2% 0% 4% 0%;
+}
+.card{
+    width: 30%;
+    text-align: center;
+    background-color: white;
+}
+.top-black{
+    background-color: #2e2e2e;
+
+}
+.card h3{
+    padding: 5% 0%;
+}
+.card hr{
+    width: 100%;
+}
+.card h4{
+    padding: 2% 0%;
+    color: gray;
+}
+.cards{
+    padding-bottom:  10%;
+}
+.opinions{
+    padding-bottom:  10%;
+}
+#hr-orange{
+        color: chocolate;
+    
+        border: solid;
+}
+.card2{
+    margin: 0% 5%;
+}
+.button-mid-card{
+    background-color: chocolate;
+    color: white;
+    padding: 1% 36%;
+    border: none;
+}
+.price {
+    font-size: 243%;
+    font-family: "Crimson Text", serif;
 }
