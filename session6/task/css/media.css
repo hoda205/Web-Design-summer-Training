@@ -1,0 +1,51 @@
+@media (max-width:391px) {
+      .hero {
+    background-size: 120%; /* زوم أقل */
+    background-position: top center;
+    height: 90vh;
+    padding: 0 3%;
+  }
+
+  .hero .content {
+    text-align: center;
+    width: 100%;
+  }
+    .container2 {
+        margin: 0%;
+    }
+
+    .sec2 img {
+        width: 100%;
+    }
+
+    .sec2 input {
+        display: none;
+    }
+
+    .title1 {
+        padding: 2% 0%;
+    }
+
+    .title2 i {
+        top: 0%;
+        right: 0%;
+    }
+
+    .title2 h2 {
+        font-size: 15px;
+        margin: 4% 1%;
+    }
+
+    .container1 {
+        padding: 4% 0%;
+    }
+
+    .buttons button {
+        padding: 3% 4%;
+
+    }
+    .sec2 img{
+        margin-top: 2%;
+    }
+
+}
